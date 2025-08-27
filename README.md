@@ -1,33 +1,33 @@
 ## Hi there 👋 I'm Belen Suarez
-🎯 **QA Tester** in training | 💻 Learning **Frontend**  
+🎯 **QA Tester** in training | 💻 Learning **Frontend**.  
 ✨ I’m passionate about combining automation and manual testing with web development.  
 
 ---
 
 ## 🚀 About me
-- 🧪 Practicing **automation testing with Cypress**  
-- 🌱 Currently studying **HTML, CSS, JavaScript, Astro, and Tailwind**  
-- 📌 Interested in **Testing**, **Frontend**, and **Web Development**  
+- 🧪 Practicing **automation testing with Cypress**.  
+- 🌱 Currently studying **HTML, CSS, JavaScript, Astro, and Tailwind**.  
+- 📌 Interested in **Testing**, **Frontend**, and **Web Development**.  
 - 🎯 Goal: keep building projects and automated tests that showcase my progress.  
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** HTML | CSS | JavaScript  
-- **Frameworks/Libraries:** Astro | Tailwind CSS  
-- **Testing:** Cypress  
-- **Others:** Git | GitHub  
+- **Languages:** HTML | CSS | JavaScript.  
+- **Frameworks/Libraries:** Astro | Tailwind CSS.  
+- **Testing:** Cypress.  
+- **Others:** Git | GitHub.  
 
 ---
 
 ## 📂 Featured Projects
 
 ### 💻 Web Development
-- 🎉 [GDG Aranjuez Project](git@github.com:AdoptaUnJuniorPlatform/GDGAranjuez.git)  
+- 🎉 [GDG Aranjuez Project](git@github.com:AdoptaUnJuniorPlatform/GDGAranjuez.git).  
   I contributed to the creation of the **collaborators**, **footer**, and **agenda** sections using **Astro, Tailwind, and JavaScript**.  
 
 ### 🧪 Testing Automation
-- 🎉 [Tiquetazo Project](git@github.com:Giulicapua/GRUPO-2-TICKETAZO.git)  
+- 🎉 [Tiquetazo Project](git@github.com:Giulicapua/GRUPO-2-TICKETAZO.git).  
   I contributed to the creation of **scripts and custom commands** for the **navigation menu section** using **Cypress, Node.js, and JavaScript**.
 
 ---
@@ -38,5 +38,5 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!.
 
