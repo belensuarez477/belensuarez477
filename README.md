@@ -23,11 +23,11 @@
 ## 📂 Featured Projects
 
 ### 💻 Web Development
-- 🎉 [GDG Aranjuez Project] git@github.com:AdoptaUnJuniorPlatform/GDGAranjuez.git  
+- 🎉 [GDG Aranjuez Project] https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez.git   
   I contributed to the creation of the **collaborators**, **footer**, and **agenda** sections using **Astro, Tailwind, and JavaScript**.  
 
 ### 🧪 Testing Automation
-- 🎉 [Tiquetazo Project] git@github.com:Giulicapua/GRUPO-2-TICKETAZO.git   
+- 🎉 [Tiquetazo Project](https://github.com/Giulicapua/GRUPO-2-TICKETAZO.git)   
   I contributed to the creation of **scripts and custom commands** for the **navigation menu section** using **Cypress, Node.js, and JavaScript**.
 
 ---
