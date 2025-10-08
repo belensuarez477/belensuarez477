@@ -6,7 +6,7 @@
 
 ## 🚀 About me
 - 🧪 Practicing **automation testing with Cypress**.  
-- 🌱 Currently studying **HTML, CSS, JavaScript, Astro, and Tailwind**.  
+- 🌱 Currently studying **HTML, CSS, JavaScript, Java, Astro, and Tailwind**.  
 - 📌 Interested in **Testing**, **Frontend**, and **Web Development**.  
 - 🎯 Goal: keep building projects and automated tests that showcase my progress.  
 
@@ -15,7 +15,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML | CSS | JavaScript.  
 - **Frameworks/Libraries:** Astro | Tailwind CSS.  
-- **Testing:** Cypress.  
+- **Testing:** Cypress, Postman
 - **Others:** Git | GitHub.  
 
 ---
