@@ -15,7 +15,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML | CSS | JavaScript.  
 - **Frameworks/Libraries:** Astro | Tailwind CSS.  
-- **Testing:** Cypress, Postman
+- **Testing:** Cypress | Postman.
 - **Others:** Git | GitHub.  
 
 ---
