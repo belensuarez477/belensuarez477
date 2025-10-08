@@ -24,7 +24,7 @@
 
 ### 💻 Web Development
 - 🎉 [GDG Aranjuez Project] https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez.git   
-  I contributed to the creation of the **collaborators**, **footer**, and **agenda** sections using **Astro, Tailwind, and JavaScript**.  
+I contributed to the creation of the collaborators, footer, agenda and talk sections using Astro, Tailwind, and JavaScript. I also performed functional and automated testing to verify whether the functionalities were working correctly.
 
 ### 🧪 Testing Automation
 - 🎉 [Tiquetazo Project](https://github.com/Giulicapua/GRUPO-2-TICKETAZO.git)   
@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: [linkedin.com/in/belen-suarez-42a4331b5](https://linkedin.com/in/belen-suarez-42a4331b5)  
+- 💼 LinkedIn:(https://linkedin.com/in/belen-suarez-42a4331b5)  
 - 📧 belensuarezluqui@gmail.com  
 
 ---
