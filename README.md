@@ -6,8 +6,8 @@
 
 ## 🚀 About me
 - 🧪 Practicing **automation testing with Cypress**.  
-- 🌱 Currently studying **HTML, CSS, JavaScript, Java, SQL**.  
-- 📌 Interested in **Testing**, **Frontend**, and **Web Development**.  
+- 🌱 Currently studying **HTML, CSS, JavaScript, SQL**.  
+- 📌 Interested in **Testing**, **Frontend**.  
 - 🎯 Goal: keep building projects and automated tests that showcase my progress.  
 
 ---
