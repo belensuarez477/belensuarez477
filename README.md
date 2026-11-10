@@ -6,7 +6,7 @@ Tengo experiencia práctica realizando pruebas en proyectos web de voluntariado.
 
 ## Habilidades de QA
 
-- Testing manual: pruebas funcionales, exploratorias, de regresión y retesting
+- Testing manual: pruebas funcionales, exploratorias y de regresion. 
 - Diseño y ejecución de casos de prueba
 - Reporte y seguimiento de errores
 - Conocimientos básicos de testing de API con Postman
