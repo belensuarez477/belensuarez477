@@ -1,42 +1,41 @@
-## Hi there 👋 I'm Belen Suarez
-🎯 **QA Tester** in training | 💻 Learning **Frontend**.  
-✨ I’m passionate about combining automation and manual testing with web development.  
+## Hola, soy Belen Suarez 👋
+
+**QA Tester enfocada en testing manual de aplicaciones web.**
+
+Tengo experiencia práctica realizando pruebas en proyectos web de voluntariado. Analizo requerimientos, ejecuto pruebas funcionales y reporto errores con pasos claros para reproducirlos. Mi formación en desarrollo web me ayuda a comprender cómo se construyen las interfaces y a comunicar los problemas con claridad.
+
+## Habilidades de QA
+
+- Testing manual: pruebas funcionales, exploratorias, de regresión y retesting
+- Diseño y ejecución de casos de prueba
+- Reporte y seguimiento de errores
+- Conocimientos básicos de testing de API con Postman
+- Jira, Git y GitHub
+
+## Conocimientos técnicos
+
+- HTML, CSS y JavaScript
+- Astro y Tailwind CSS
+- Python y FastAPI, aplicados en un proyecto personal
+
+## Proyectos destacados
+
+### GDG Aranjuez DevFest
+
+Contribuí al desarrollo del sitio de GDG Aranjuez implementando y ajustando componentes de interfaz para las secciones de colaboradores, agenda, charlas y pie de página. Trabajé con Astro, Tailwind CSS y JavaScript. También realicé pruebas funcionales y reporté errores con pasos para reproducirlos.
+
+[Ver el proyecto](https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez)
+
+### Organizador de búsqueda laboral
+
+Proyecto personal en desarrollo para registrar y organizar postulaciones laborales. Actualmente estoy desarrollando una API con Python y FastAPI para crear, consultar, actualizar y eliminar postulaciones, además de gestionar notas. El proyecto utiliza SQLite y SQLAlchemy, e incluye pruebas automatizadas con pytest.
+
+[Ver el proyecto](https://github.com/belensuarez477/Organizador-de-busqueda-laboral)
+
+## Contacto
+
+- [LinkedIn](https://linkedin.com/in/belen-suarez-42a4331b5)
+- belensuarezluqui@gmail.com
 
 ---
-
-## 🚀 About me
-- 🧪 Practicing **automation testing with Cypress**.  
-- 🌱 Currently studying **HTML, CSS, JavaScript, SQL**.  
-- 📌 Interested in **Testing**, **Frontend**.  
-- 🎯 Goal: keep building projects and automated tests that showcase my progress.  
-
----
-
-## 🛠️ Technologies & Tools
-- **Languages:** HTML | CSS | JavaScript.  
-- **Frameworks/Libraries:** Astro | Tailwind CSS.  
-- **Testing:** Cypress | Postman.
-- **Others:** Git | GitHub.  
-
----
-
-## 📂 Featured Projects
-
-### 💻 Web Development
-- 🎉 [GDG Aranjuez Project] https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez.git   
-I contributed to the creation of the collaborators, footer, agenda and talk sections using Astro, Tailwind, and JavaScript. I also performed functional and automated testing to verify whether the functionalities were working correctly.
-
-### 🧪 Testing Automation
-- 🎉 [Tiquetazo Project](https://github.com/Giulicapua/GRUPO-2-TICKETAZO.git)   
-  I contributed to the creation of **scripts and custom commands** for the **navigation menu section** using **Cypress, Node.js, and JavaScript**.
-
----
-
-## 📫 Contact
-- 💼 LinkedIn:(https://linkedin.com/in/belen-suarez-42a4331b5)  
-- 📧 belensuarezluqui@gmail.com  
-
----
-
-⭐ Thanks for visiting my profile!.
-
+⭐ ¡Gracias por visitar mi perfil!
