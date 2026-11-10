@@ -2,7 +2,7 @@
 
 **QA Tester enfocada en testing manual de aplicaciones web.**
 
-Tengo experiencia práctica realizando pruebas en proyectos web de voluntariado. Analizo requerimientos, ejecuto pruebas funcionales y reporto errores con pasos claros para reproducirlos. Mi formación en desarrollo web me ayuda a comprender cómo se construyen las interfaces y a comunicar los problemas con claridad.
+He participado en proyectos de voluntariado tanto en QA manual como en desarrollo web. En testing, analizo requerimientos, ejecuto pruebas funcionales y documento defectos con pasos claros para reproducirlos. Mi experiencia desarrollando sitios web también me ayuda a comprender cómo se construyen las interfaces y a comunicar los problemas con claridad.
 
 ## Habilidades de QA
 
