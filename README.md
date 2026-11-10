@@ -14,7 +14,7 @@ Tengo experiencia práctica realizando pruebas en proyectos web de voluntariado.
 
 ## Conocimientos técnicos
 
-- HTML, CSS y JavaScript
+- HTML, CSS. 
 - Astro y Tailwind CSS
 - Python y FastAPI, aplicados en un proyecto personal
 
