@@ -24,7 +24,7 @@ Tengo experiencia práctica realizando pruebas en proyectos web de voluntariado.
 
 Contribuí al desarrollo del sitio de GDG Aranjuez implementando y ajustando componentes de interfaz para las secciones de colaboradores, agenda, charlas y pie de página. Trabajé con Astro, Tailwind CSS y JavaScript. También realicé pruebas funcionales y reporté errores con pasos para reproducirlos.
 
-[Ver el proyecto](https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez)
+[Ver el proyecto](https://github.com/GDG-Aranjuez/freson-fest)
 
 ### Organizador de búsqueda laboral
 
